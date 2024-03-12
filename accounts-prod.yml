@@ -16,5 +16,4 @@ spring:
   endpoints:
     web:
       exposure:
-        include:
-        - "*"
+        include: "*"
