@@ -3,9 +3,9 @@ build:
   version: "1.829"
 
 loans:
-  message: "Welcome to ZettaBank loans related qa testing demo APIs "
+  message: "Welcome to ZettaBank loans related qa testing APIs "
   contactDetails:
-    name: "sai kumar - Product Owner"
+    name: "sai - Product Owner"
     email: "sai1919@zettabank.com"
   onCallSupport:
     - (453) 392-4829
