@@ -3,10 +3,10 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to ZettaBank accounts related prod demo APIs "
+  message: "Welcome to ZettaBank accounts related prod APIs "
   contactDetails:
-    name: "Sanjay kumar - QA Lead"
-    email: "sanjay@zettabank.com"
+    name: "sai - QA Lead"
+    email: "sai@zettabank.com"
   onCallSupport:
     - (040) 265-3765
     - (040) 734-8371
