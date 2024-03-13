@@ -3,7 +3,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to ZettaBank accounts related prod APIs "
+  message: "Welcome to ZettaBank accounts related default APIs "
   contactDetails:
     name: "Valerie - Product Owner"
     email: "valerie@zettabank.com"
