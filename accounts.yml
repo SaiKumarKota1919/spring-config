@@ -12,22 +12,7 @@ accounts:
     - (236) 203-0384
 
 spring:
- datasource:
-    url: jdbc:h2:mem:accounts
-    driverClassName: org.h2.Driver
-    username: admin
-    password: 1234
- h2:
-    console:
-      enabled: true
-      settings:
-        web-allow-others: true
- jpa:
-    database-platform: org.hibernate.dialect.H2Dialect
-    hibernate:
-      ddl-auto: update
-    show-sql: true
- management:
+management:
   endpoints:
     web:
       exposure:
