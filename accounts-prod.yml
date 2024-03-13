@@ -3,9 +3,9 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to ZettaBank accounts related prod APIs "
+  message: "Welcome to ZettaBank accounts related prod demo APIs "
   contactDetails:
-    name: "Valerie - Product Owner"
+    name: "Valerie kumar - Product Owner"
     email: "valerie@zettabank.com"
   onCallSupport:
     - (453) 392-4829
